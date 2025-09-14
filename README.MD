@@ -21,22 +21,10 @@
     >
   -->
     <img 
-      alt="Made by Felipe Aguiar" 
-      src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
+      alt="Made by beatriz" 
+      src="https://img.shields.io/badge/made%20by-beatriz-%20?color=6A57D5"
     >
-    <img 
-      alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
-    >
-    <img 
-      alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
-    >
-    <img 
-      alt="GitHub license" 
-      src="https://img.shields.io/github/license/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
-    >
-  </p> 
+  </p>
 
   <!-- project description and menu -->
   <p align="center">
@@ -48,27 +36,16 @@
     </a>
     <br />
     <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues/new">
-      Request Feature
-    </a>
+  <!-- Links removidos -->
   </p>
 </div>
 
 ## Preview
 
-<div align="center">
-  <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
-  </a>
-</div>
+![Preview do app](.github/assets/preview.png)
 
 ## 🔥 Features
+
 - [x] Generate a random Strong Password;
 - [x] Copy Pass to Clipboard;
 
@@ -76,17 +53,15 @@
 
 This project was developed with the following technologies:
 
--   [React Native](https://reactnative.dev/)
--   [Expo](https://docs.expo.dev/)
-
-
+- [React Native](https://reactnative.dev/)
+- [Expo](https://docs.expo.dev/)
 
 ## Building
 
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/felipeAguiarCode/react-native-bat-pass-generator.git
+git clone <seu-repositorio-aqui>
 $ cd react-native-bat-pass-generator
 $ npm install
 $ npm run start
@@ -104,6 +79,4 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
+beatriz
